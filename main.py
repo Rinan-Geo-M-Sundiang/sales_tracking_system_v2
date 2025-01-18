@@ -25,7 +25,7 @@ def main():
             elif action == "analyze":
                 analyze_sales(products)
             elif action == "exit":
-                print("Exiting the system. Goodbye!")
+                print("Thank you for using the Real-Time Sales Tracking System!")
                 break
             else:
                 print("Invalid choice. Please try again.")
